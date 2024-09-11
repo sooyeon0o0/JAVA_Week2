@@ -1,4 +1,3 @@
-/*
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
@@ -29,19 +28,18 @@ public class Main {
         double b = 100;
         boolean c = true;
         char d = 'c';
-        string e ='e';
+        // string e ='e';
 
 
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
         System.out.println(d);
-        System.out.println(e);
+        // System.out.println(e);
 
 
     }
 }
-*/
 
 
 
